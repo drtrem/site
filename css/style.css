@@ -1,9 +1,13 @@
 body {
-    background: red;
+    background: green;
     margin: 0 auto;
     width: 1000px;
     text-align: center;
 }
 p {
     color: aqua;
+}
+h1 {
+    font-size: 40px;
+
 }
